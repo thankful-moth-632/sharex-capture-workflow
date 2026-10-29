@@ -1,0 +1,22 @@
+{
+  "name": "sharex-capture-workflow",
+  "displayName": "ShareX Capture Workflow",
+  "programType": "capture-workflow",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Capture presets",
+    "Destination fields",
+    "Naming rules"
+  ],
+  "topics": [
+    "sharex-capture-workflow",
+    "sharex-tools",
+    "sharex-menu",
+    "sharex-settings",
+    "sharex-configs",
+    "sharex-capture-presets",
+    "sharex-destination-fields"
+  ]
+}
